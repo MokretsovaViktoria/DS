@@ -1,0 +1,14 @@
+ТЕСТ 1. Распределенные системы.  Дата проведения 15.06.2021(вторник) в 18.10
+ССЫЛКА ДЛЯ ВХОДА 
+https://docs.google.com/forms/d/e/1FAIpQLScEjZmp_Fsx2qGEp-KWWR5L8UfUrZs0GmGJIM_Nd3I0nzbuwg/viewform?embedded=true
+
+Понятие распределенных информационных систем, Основные принципы технологии  «клиент-сервер», 
+Модели взаимодействия компонентов РС, Распределенная обработка данных. 
+Глава 1 - Глава 2 Бабичев С. Л. https://urait.ru/book/raspredelennye-sistemy-445188
+
+ТЕСТ 2. Распределенные системы.    Дата проведения 15.06.2021(вторник) в 18.10
+ССЫЛКА ДЛЯ ВХОДА 
+https://docs.google.com/forms/d/e/1FAIpQLScx-U2XsIRvTkMHWHqbu15K9I9lNxc-n2NCgK-PiC22B0BTzA/viewform?embedded=true
+
+Глава 9. Архитектура распределенных систем. + конспект
+Бабичев С. Л. https://urait.ru/book/raspredelennye-sistemy-445188
