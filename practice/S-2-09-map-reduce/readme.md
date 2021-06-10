@@ -333,3 +333,7 @@ stragglers очень сильно портили эту статистику
 1. [Apache Hive](https://hive.apache.org/)
 1. [SkewTune](http://nuage.cs.washington.edu/pubs/sigmod2012-kwon-correct.pdf)
 
+
+ПРАКТИЧЕСКАЯ РАБОТА
+https://colab.research.google.com/gist/BosenkoTM/c0839c491f7dc6e10ecbad3a7016f1f6/practice-teacher-mapreduce-ipynb.ipynb
+
