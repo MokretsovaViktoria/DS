@@ -335,5 +335,8 @@ stragglers очень сильно портили эту статистику
 
 
 ПРАКТИЧЕСКАЯ РАБОТА
-https://colab.research.google.com/gist/BosenkoTM/c0839c491f7dc6e10ecbad3a7016f1f6/practice-teacher-mapreduce-ipynb.ipynb
+[Реализация парадигмы Map Reduce для анализа текста](https://colab.research.google.com/gist/BosenkoTM/c0839c491f7dc6e10ecbad3a7016f1f6/practice-teacher-mapreduce-ipynb.ipynb)
+
+Задание
+Подобрать произведение любимого писателя(на русском языке) и произвести частотный анализ текста
 
