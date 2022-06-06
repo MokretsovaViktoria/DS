@@ -27,14 +27,16 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 ## self-study
 
 - `Семинар 1`. [Протокол HTTP/HTTPS](practice/S-1-%20HTTP)
+- 
+- `Семинар 2`. [Multicast](d-zadanie/04-multicast)
 
-- `Семинар 2`. [Парадигма Map Reduce](practice/S-2-09-map-reduce)
+- `Семинар 3`. [Message queue, RabbitMQ и Kafka.](d-zadanie/05-mq)
 
-- `Семинар 3`. [HADOOP -это просто!](practice/S-3-HADOOP)
+- `Семинар 4`. [Парадигма Map Reduce](practice/S-2-09-map-reduce)
 
-- `Семинар 4`. [Multicast](d-zadanie/04-multicast)
+- `Семинар 5`. [HADOOP -это просто!](practice/S-3-HADOOP)
 
-- `Семинар 5`. [Message queue, RabbitMQ и Kafka.](d-zadanie/05-mq)
+
 
 
 ## ТЕСТ 1. Распределенные системы.  Дата проведения 17.06.2022 13.00 - 14.30
