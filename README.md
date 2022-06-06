@@ -27,7 +27,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 ## self-study
 
 - `Семинар 1`. [Протокол HTTP/HTTPS](practice/S-1-%20HTTP)
-- 
+ 
 - `Семинар 2`. [Multicast](d-zadanie/04-multicast)
 
 - `Семинар 3`. [Message queue, RabbitMQ и Kafka.](d-zadanie/05-mq)
