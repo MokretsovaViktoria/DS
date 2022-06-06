@@ -1,6 +1,10 @@
 # Lecturer
 Timur Bosenko M. (bosenkotm@mgpu.ru)
 
+# Текущая успеваемость
+
+ [ЦТ-211мз РС 2022](https://docs.google.com/spreadsheets/d/1u9Ho3idAo5v0o7mETkpKlkmCPVmGR6D3_15j_dGVWvU/edit?usp=sharing)
+
 ## Distributed_systems
 
 - `01-ЛЕКЦИЯ` [Введение](Lectures/01-ЛЕКЦИЯ_Введение.pdf)
