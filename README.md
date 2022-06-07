@@ -9,7 +9,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
  - `DS-22/Ubuntu 18.04` [vm - VirtualBox](https://disk.yandex.ru/d/RTZvbDhtfXInMg), в его комплект входит:
     - `VirtualBox-6.1.30-148432-Win.exe` - ПО для разворачивания виртуальной ОС; 
-    - `St_work_1.ova образ` - настроенной ОС `Ubuntu 18.04`;
+    - `St_work_1.ova` - образ настроенной ОС `Ubuntu 18.04`;
     - `login.txt`;
     - `ubuntu-18.04.6-desktop-amd64.iso` - исходный образ ОС.
 
