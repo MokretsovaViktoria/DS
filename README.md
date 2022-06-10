@@ -47,7 +47,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
  
 - `Семинар 2`. [Multicast](d-zadanie/04-multicast)
 
-- `Семинар 3`. [Message queue, RabbitMQ и Kafka.](d-zadanie/05-mq)
+- `Семинар 3`. [Message queue, RabbitMQ и Kafka.](/d-zadanie/03-mq)
 
 - `Семинар 4`. [Парадигма Map Reduce](practice/S-2-09-map-reduce)
 
