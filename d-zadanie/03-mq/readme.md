@@ -1,4 +1,4 @@
-# Семинар 4. Message queue, RabbitMQ и Kafka.
+# Семинар 3. Message queue, RabbitMQ и Kafka.
 
 <img src="./media/broker.png" style="width: 350px" />
 
