@@ -10,7 +10,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
  - `D_System_22` [vm - VirtualBox](https://disk.yandex.ru/d/RTZvbDhtfXInMg), в его комплект входит:
     - `VirtualBox-6.1.30-148432-Win.exe` - ПО для разворачивания виртуальной ОС; 
     - `St_work_1.ova` - образ настроенной ОС `Ubuntu 18.04`;
-    - `St_work_Hadoop.ova` - образ настроенной ОС `Ubuntu 18.04+ Hadoop`;
+    - `St_work_Hadoop.ova` - образ настроенной ОС `Ubuntu 18.04 + Hadoop`;
     - `login.txt`;
     - `ubuntu-18.04.6-desktop-amd64.iso` - исходный образ ОС.
 
