@@ -70,3 +70,6 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 - Темы тестирования:  `Глава 9.` Архитектура распределенных систем. + конспект
 Учебник [Бабичев С. Л](https://urait.ru/book/raspredelennye-sistemy-445188)
+
+## Дополнительные материалы
+- [Основные понятия Docker](/Lectures/05-01-docker-indirect-comm.pdf) 
