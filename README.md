@@ -11,7 +11,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
    
  - OC **`Ubuntu 20.04`** на базе кластера **`МГПУ`**. Номер РМ студента получить у ведущего лектора.
    
- `ВИРТКАЛЬНАЯ ОС`:
+ `ВИРТУАЛЬНАЯ ГОСТЕВАЯ ОС`:
  
  - `D_System_22` [vm - VirtualBox](https://disk.yandex.ru/d/RTZvbDhtfXInMg), в его комплект входит:
     - `VirtualBox-6.1.30-148432-Win.exe` - ПО для разворачивания виртуальной ОС; 
