@@ -51,9 +51,9 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 - `Семинар 1`. [Протокол HTTP/HTTPS](practice/S-1-%20HTTP)
  
-- `Семинар 2`. [Multicast](d-zadanie/04-multicast)
+- `Семинар 2`. [Multicast](d-zadanie/04-multicast) (Выполнить на базе кластера `МГПУ`).
 
-- `Семинар 3`. [Message queue, RabbitMQ и Kafka.](/d-zadanie/03-mq)
+- `Семинар 3`. [Message queue, RabbitMQ и Kafka.](/d-zadanie/03-mq) (Выполнить на базе кластера `МГПУ`).
 
 - `Семинар 4`. [Парадигма Map Reduce](practice/S-2-09-map-reduce)
 
