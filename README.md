@@ -63,7 +63,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 
 
-## ТЕСТ 1. Распределенные системы.  Дата проведения 17.06.2022 13.00 - 14.30
+## ТЕСТ 1. Распределенные системы.  
 
 [ССЫЛКА ДЛЯ ВХОДА](https://docs.google.com/forms/d/e/1FAIpQLScEjZmp_Fsx2qGEp-KWWR5L8UfUrZs0GmGJIM_Nd3I0nzbuwg/viewform?embedded=true)
 
@@ -71,7 +71,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 Модели взаимодействия компонентов РС, Распределенная обработка данных. 
 `Глава 1` - `Глава 2` Учебник [Бабичев С. Л](https://urait.ru/book/raspredelennye-sistemy-445188)
 
-## ТЕСТ 2. Распределенные системы.    Дата проведения 22.06.2022 14.40 - 16.10
+## ТЕСТ 2. Распределенные системы. 
 [ССЫЛКА ДЛЯ ВХОДА](https://docs.google.com/forms/d/e/1FAIpQLScx-U2XsIRvTkMHWHqbu15K9I9lNxc-n2NCgK-PiC22B0BTzA/viewform?embedded=true)
 
 - Темы тестирования:  `Глава 9.` Архитектура распределенных систем. + конспект
