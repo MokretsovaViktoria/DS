@@ -23,6 +23,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 ## Текущая успеваемость
 
  [ЦТ-211мз РС 2022](https://docs.google.com/spreadsheets/d/1u9Ho3idAo5v0o7mETkpKlkmCPVmGR6D3_15j_dGVWvU/edit?usp=sharing)
+ [ТП-191]()
 
 ## Distributed_systems
 
