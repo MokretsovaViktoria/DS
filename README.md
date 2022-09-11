@@ -82,4 +82,4 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 ## Дополнительные материалы
 - [Основные понятия Docker](/Lectures/05-01-docker-indirect-comm.pdf) 
-- [Docker help](/Lectures) 
+- [Docker help](/Lectures/docker_help.pdf) 
