@@ -19,6 +19,9 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     - `St_work_Hadoop.ova` - образ настроенной ОС `Ubuntu 18.04 + Hadoop`;
     - `login.txt`;
     - `ubuntu-18.04.6-desktop-amd64.iso` - исходный образ ОС.
+    
+## Темы курсовых работ
+   [2022 ТП-191](https://docs.google.com/spreadsheets/d/1vH9CPcBrWd2rGgXVlzg4eaXm8DNor1-3s4Um11_e2hA/edit?usp=sharing)
 
 ## Текущая успеваемость
 
