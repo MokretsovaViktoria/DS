@@ -40,6 +40,8 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 - содержание доклада и ответы на вопросы.
 
+[Методические рекомендации к выполнению курсового проекта](https://disk.yandex.ru/i/6_ypM5IRQTfpBA)
+
 ## Текущая успеваемость
 
  [ЦТ-211мз РС 2022](https://docs.google.com/spreadsheets/d/1u9Ho3idAo5v0o7mETkpKlkmCPVmGR6D3_15j_dGVWvU/edit?usp=sharing)
