@@ -46,7 +46,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
  [ЦТ-211мз РС 2022](https://docs.google.com/spreadsheets/d/1u9Ho3idAo5v0o7mETkpKlkmCPVmGR6D3_15j_dGVWvU/edit?usp=sharing)
  
- [ТП-191]()
+ [ТП-191](https://docs.google.com/spreadsheets/d/1NOTUaM9YFTO9QEV7WKDY1KJoWyKj5iSkfVdgChCiw_o/edit?usp=sharing)
 
 ## Distributed_systems
 
