@@ -106,6 +106,10 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 Учебник [Бабичев С. Л](https://urait.ru/book/raspredelennye-sistemy-445188)
 - [Конспект лекций](Lectures/help_test2.pdf)
 
+## Conferences
+1. [`XXI конференция молодых исследователей образования  - МГПУ`](https://www.mgpu.ru/event/xxi-konferentsiya-molodyh-issledovatelej-obrazovaniya/).
+
+
 ## Дополнительные материалы
 - [Основные понятия Docker](/Lectures/05-01-docker-indirect-comm.pdf) 
 - [Docker help](/Lectures/docker_help.pdf) 
