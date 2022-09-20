@@ -89,7 +89,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 ## ТЕСТ 1. Распределенные системы.  
 
-`30.09.2022`
+`07.10.2022`
 
 [ССЫЛКА ДЛЯ ВХОДА](https://docs.google.com/forms/d/e/1FAIpQLScEjZmp_Fsx2qGEp-KWWR5L8UfUrZs0GmGJIM_Nd3I0nzbuwg/viewform?embedded=true)
 
