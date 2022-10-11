@@ -79,11 +79,13 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
  
 - `Семинар 2`. [Multicast](d-zadanie/04-multicast) (Выполнить на базе кластера `МГПУ`).
 
-- `Семинар 3`. [Message queue, RabbitMQ и Kafka.](/d-zadanie/03-mq) (Выполнить на базе кластера `МГПУ`).
+- `Семинар 3`. [Message queue, RabbitMQ.](/d-zadanie/03-mq) (Выполнить на базе кластера `МГПУ`).
 
-- `Семинар 4`. [Парадигма Map Reduce](practice/S-2-09-map-reduce)
+- `Семинар 4-5`. [Kafka.](https://github.com/BosenkoTM/kafka) (Выполнить на базе кластера `МГПУ`).
 
-- `Семинар 5`. [HADOOP -это просто!](https://github.com/BosenkoTM/ds_practice/tree/main/exercises/winter_semester_2021-2022/05_hadoop)
+- `Семинар 6`. [Парадигма Map Reduce](practice/S-2-09-map-reduce)
+
+- `Семинар 7`. [HADOOP -это просто!](https://github.com/BosenkoTM/ds_practice/tree/main/exercises/winter_semester_2021-2022/05_hadoop)
   - Решение самостоятельного задания `Семинар 5` [тут](https://github.com/BosenkoTM/ds_practice/tree/main/solutions/winter_semester_2021-2022/05_hadoop)
 
 
