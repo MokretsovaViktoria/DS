@@ -86,7 +86,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 - `Семинар 6`. [Парадигма Map Reduce](practice/S-2-09-map-reduce)
 
 - `Семинар 7`. [HADOOP -это просто!](https://github.com/BosenkoTM/ds_practice/tree/main/exercises/winter_semester_2021-2022/05_hadoop)
-  - Решение самостоятельного задания `Семинар 5` [тут](https://github.com/BosenkoTM/ds_practice/tree/main/solutions/winter_semester_2021-2022/05_hadoop)
+  - Решение самостоятельного задания `Семинар 7` [тут](https://github.com/BosenkoTM/ds_practice/tree/main/solutions/winter_semester_2021-2022/05_hadoop)
 
 
 
