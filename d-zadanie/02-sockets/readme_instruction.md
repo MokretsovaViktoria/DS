@@ -712,7 +712,8 @@ service HelloService {
 - [gRPC benchmarking](https://github.com/grpc/grpc.io/blob/master/content/docs/guides/benchmarking.md)
 - [gRPC ошибки](https://grpc.io/docs/guides/error/)
 
-##Инструкция по выполнению задания:
+## Инструкция по выполнению задания:
 
 - `sudo apt install python3-pip`
 - `pip3 install pyzmq`
+-  выполнить [server.py и client.py](/d-zadanie/02-sockets/zeromq/test%20server)
