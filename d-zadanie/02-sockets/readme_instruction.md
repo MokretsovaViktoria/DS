@@ -713,7 +713,7 @@ service HelloService {
 - [gRPC ошибки](https://grpc.io/docs/guides/error/)
 
 ## Инструкция по выполнению задания:
-
+### ZeroMQ
 - `sudo apt install python3-pip`
 - `pip3 install pyzmq`
 -  выполнить [server.py и client.py](/d-zadanie/02-sockets/zeromq/test%20server)
