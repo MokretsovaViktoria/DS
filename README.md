@@ -81,7 +81,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 - `Семинар 3`. [Message queue, RabbitMQ.](/d-zadanie/03-mq) (Выполнить на базе кластера `МГПУ`).
 
-- `Семинар 4-5`. [Kafka.](https://github.com/BosenkoTM/kafka) (Выполнить на базе кластера `МГПУ`).
+- `Семинар 4-5`. [Kafka.](https://github.com/BosenkoTM/kafka),  [Kafka2.](https://github.com/Zabi82/KafkaLab) (Выполнить на базе кластера `МГПУ`).
 
 - `Семинар 6`. [Парадигма Map Reduce](practice/S-2-09-map-reduce)
 
