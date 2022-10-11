@@ -711,3 +711,8 @@ service HelloService {
 - [Презентации о gRPC](https://grpc.io/docs/talks/)
 - [gRPC benchmarking](https://github.com/grpc/grpc.io/blob/master/content/docs/guides/benchmarking.md)
 - [gRPC ошибки](https://grpc.io/docs/guides/error/)
+
+##Инструкция по выполнению задания:
+
+- `sudo apt install python3-pip`
+- `pip3 install pyzmq`
