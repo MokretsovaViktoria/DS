@@ -103,7 +103,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 ## ТЕСТ 2. Распределенные системы. 
 [ССЫЛКА ДЛЯ ВХОДА](https://docs.google.com/forms/d/e/1FAIpQLScx-U2XsIRvTkMHWHqbu15K9I9lNxc-n2NCgK-PiC22B0BTzA/viewform?embedded=true)
 
-`11.11.2022`
+`18.11.2022`
 
 - Темы тестирования:  `Глава 9.` Архитектура распределенных систем. + конспект
 Учебник [Бабичев С. Л](https://urait.ru/book/raspredelennye-sistemy-445188)
