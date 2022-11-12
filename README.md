@@ -116,3 +116,17 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 ## Дополнительные материалы
 - [Основные понятия Docker](/Lectures/05-01-docker-indirect-comm.pdf) 
 - [Docker help](/Lectures/docker_help.pdf) 
+
+### Основная литература
+
+1.	Бабичев, Сергей Леонидович. Распределенные системы [Электронный ресурс]: учеб. пособие для вузов / С. Л. Бабичев, К. А. Коньков. – М. : Юрайт, 2020. https://urait.ru/book/raspredelennye-sistemy-457005 
+
+2.	Распределенные системы: учебное пособие для студентов, обучающихся по направлению подготовки 38.03.05 Бизнес-информатика / [авт.-сост. А.В. Демина, О.Н. Алексенцева]. 2018. – 108 с. Demina_Aleksenzeva.pdf — Яндекс.Диск (yandex.ru)
+
+3.	Клеппман М.Высоконагруженные приложения. Программирование, масштабирование, поддержка. — СПб.: Питер, 2018 — 640 с.
+
+### Дополнительная литература
+
+4.	Austin Parker Distributed Tracing in Practice Instrumenting, Analyzing, and Debugging Microservices, y O’Reilly Media, Inc., 2020
+5.	Sigismondo Boschi RabbitMQ Cookbook Packt Publishing 2013
+
