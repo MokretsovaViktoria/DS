@@ -23,6 +23,8 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 ## Темы курсовых проектов
    [2022 ТП-191](https://docs.google.com/spreadsheets/d/1vH9CPcBrWd2rGgXVlzg4eaXm8DNor1-3s4Um11_e2hA/edit?usp=sharing)
    
+   [2022 Распределение студентов КР: `ТП-191`](/kp/kp_tp_191.pdf)
+   
    ### Регламент написания и защиты курсового проекта.
 
 При защите курсового проекта оцениваются:
