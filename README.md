@@ -86,7 +86,9 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 - `Семинар 4-5`. [Kafka.](https://github.com/BosenkoTM/kafka),  [Kafka2.](https://github.com/Zabi82/KafkaLab) [Kafka3.](https://github.com/cblanton45/kafka-labs).
 
-- `Семинар 6`. [Парадигма Map Reduce](practice/S-2-09-map-reduce)
+- `Семинар 6`. 
+               - [Парадигма Map Reduce - Преподаватель](practice/S-2-09-map-reduce)
+               - [Парадигма Map Reduce - Студент](https://colab.research.google.com/drive/1-_TOZV0MaRLGaFqHaHP45JznxGC5F4hl?usp=sharing)
 
 - `Семинар 7`. [01_HADOOP администрирование](https://github.com/BosenkoTM/ds_practice/tree/main/exercises/winter_semester_2021-2022/05_hadoop)
   - Решение самостоятельного задания `Семинар 7` [тут](https://github.com/BosenkoTM/ds_practice/tree/main/solutions/winter_semester_2021-2022/05_hadoop)
