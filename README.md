@@ -108,9 +108,9 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 `Глава 1` - `Глава 2` Учебник [Бабичев С. Л](https://urait.ru/book/raspredelennye-sistemy-445188)
 
 ## ТЕСТ 2. Распределенные системы. 
-[ССЫЛКА ДЛЯ ВХОДА](https://docs.google.com/forms/d/e/1FAIpQLScx-U2XsIRvTkMHWHqbu15K9I9lNxc-n2NCgK-PiC22B0BTzA/viewform?embedded=true)
-
 `18.11.2022`
+
+[ССЫЛКА ДЛЯ ВХОДА](https://docs.google.com/forms/d/e/1FAIpQLScx-U2XsIRvTkMHWHqbu15K9I9lNxc-n2NCgK-PiC22B0BTzA/viewform?embedded=true)
 
 - Темы тестирования:  `Глава 9.` Архитектура распределенных систем. + конспект
 Учебник [Бабичев С. Л](https://urait.ru/book/raspredelennye-sistemy-445188)
