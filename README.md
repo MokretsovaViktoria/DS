@@ -90,7 +90,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
    
    - [Парадигма Map Reduce - Преподаватель](practice/S-2-09-map-reduce)
    
-   - [Парадигма Map Reduce - Студент](https://colab.research.google.com/drive/1-_TOZV0MaRLGaFqHaHP45JznxGC5F4hl?usp=sharing)
+   - [Парадигма Map Reduce - Студент]()
 
 - `Семинар 7`. [01_HADOOP администрирование](https://github.com/BosenkoTM/ds_practice/tree/main/exercises/winter_semester_2021-2022/05_hadoop)
   - Решение самостоятельного задания `Семинар 7` [тут](https://github.com/BosenkoTM/ds_practice/tree/main/solutions/winter_semester_2021-2022/05_hadoop)
