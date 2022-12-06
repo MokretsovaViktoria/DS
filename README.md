@@ -76,6 +76,10 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
  
  [ТП-191](https://docs.google.com/spreadsheets/d/1NOTUaM9YFTO9QEV7WKDY1KJoWyKj5iSkfVdgChCiw_o/edit?usp=sharing)
 
+## Вопросы к экзамену
+
+- 2022-2023 [ТП-191](/examp_ds_2022_2023.pdf)
+
 ## Distributed_systems
 
 - `01-ЛЕКЦИЯ` [Введение](Lectures/01-ЛЕКЦИЯ_Введение.pdf)
