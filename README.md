@@ -21,10 +21,10 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     - `ubuntu-18.04.6-desktop-amd64.iso` - исходный образ ОС.
     
 ## Темы курсовых проектов
-   [2022 ТП-191](https://docs.google.com/spreadsheets/d/1vH9CPcBrWd2rGgXVlzg4eaXm8DNor1-3s4Um11_e2hA/edit?usp=sharing)
+   [АДЭУ-211](https://docs.google.com/spreadsheets/d/1vH9CPcBrWd2rGgXVlzg4eaXm8DNor1-3s4Um11_e2hA/edit?usp=sharing)
    
    Распределение студентов КР:
-   - [`ТП-191`](/kp/kp_tp_191.pdf)
+   - [`АДЭУ-211`](/kp/kp_tp_191.pdf)
    
    | ФИО  | Дата представления КП |
 | --------------| :---: |
