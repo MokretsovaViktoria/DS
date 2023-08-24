@@ -24,11 +24,11 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
    [АДЭУ-211](https://docs.google.com/spreadsheets/d/1vH9CPcBrWd2rGgXVlzg4eaXm8DNor1-3s4Um11_e2hA/edit?usp=sharing)
    
    Распределение студентов КР:
-   - [`АДЭУ-211`](/kp/kp_tp_191.pdf)
+   - [`АДЭУ-211`](/kp/)
    
    | ФИО  | Дата представления КП |
 | --------------| :---: |
-| Бринькован В.   | 06.12.2022    |
+| Бринькован В.   | 06.12.2023    |
 | Ярмухаметова И. | 06.12.2022    |
 | Вильчевская А.  | 06.12.2022    |
 | Юсковец З.      | 06.12.2022    |
@@ -71,18 +71,15 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 [Методические рекомендации к выполнению курсового проекта](https://disk.yandex.ru/i/6_ypM5IRQTfpBA)
 
 ## Текущая успеваемость
-
- [ЦТ-211мз РС 2022](https://docs.google.com/spreadsheets/d/1u9Ho3idAo5v0o7mETkpKlkmCPVmGR6D3_15j_dGVWvU/edit?usp=sharing)
- 
- [ТП-191](https://docs.google.com/spreadsheets/d/1NOTUaM9YFTO9QEV7WKDY1KJoWyKj5iSkfVdgChCiw_o/edit?usp=sharing)
+ [АДЭУ-211](https://docs.google.com/spreadsheets/d/1NOTUaM9YFTO9QEV7WKDY1KJoWyKj5iSkfVdgChCiw_o/edit?usp=sharing)
 
 ## Вопросы к экзамену
 
-- 2022-2023 [ТП-191](/examp_ds_2022_2023.pdf)
+- 2023-2024 [АДЭУ-211](/examp_ds_2022_2023.pdf)
 
 ## Билеты(зачет)
 
-- 2022-2023 [ТП-191](/examp2022/Билеты%20экзамен%20Распределенные%20системы%20ТП-191.pdf)
+- 2023-2024 [АДЭУ-211](/examp2022/Билеты%20экзамен%20Распределенные%20системы%20ТП-191.pdf)
 
 ## Distributed_systems
 
@@ -135,7 +132,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 ## ТЕСТ 1. Распределенные системы.  
 
-`07.10.2022`
+`06.11.2023`
 
 [ССЫЛКА ДЛЯ ВХОДА](https://docs.google.com/forms/d/e/1FAIpQLScEjZmp_Fsx2qGEp-KWWR5L8UfUrZs0GmGJIM_Nd3I0nzbuwg/viewform?embedded=true)
 
@@ -144,7 +141,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 `Глава 1` - `Глава 2` Учебник [Бабичев С. Л](https://urait.ru/book/raspredelennye-sistemy-445188)
 
 ## ТЕСТ 2. Распределенные системы. 
-`18.11.2022`
+`24.11.2023`
 
 [ССЫЛКА ДЛЯ ВХОДА](https://docs.google.com/forms/d/e/1FAIpQLScx-U2XsIRvTkMHWHqbu15K9I9lNxc-n2NCgK-PiC22B0BTzA/viewform?embedded=true)
 
