@@ -23,7 +23,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 ## Темы курсовых проектов
    [АДЭУ-211](https://docs.google.com/spreadsheets/d/1vH9CPcBrWd2rGgXVlzg4eaXm8DNor1-3s4Um11_e2hA/edit?usp=sharing)
 
-   [АДЭУ-201]()
+   [АДЭУ-221](https://docs.google.com/spreadsheets/d/1rwdG4OYKxMX2NpclxNVn-L5Y_67TCcN1Y9awgpJACAA/edit?usp=sharing)
    
    Распределение студентов КР:
    - [`АДЭУ-211`](/kp/)
