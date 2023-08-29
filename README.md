@@ -83,7 +83,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 ## Distributed_systems
 
-- `01-ЛЕКЦИЯ` [Введение](lectures/lectures/1-intro.pdf)
+- `01-ЛЕКЦИЯ` [Введение](lectures/1-intro.pdf)
 
 - `02-ЛЕКЦИЯ` [Взаимодействие в распределенных системах](lectures/)
 
