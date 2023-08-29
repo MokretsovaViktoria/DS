@@ -106,7 +106,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 - `10-ЛЕКЦИЯ` [Репликация данных](lectures/)
 
 
-## self-study
+## Семинары
 
 - `Семинар 1`. [Протокол HTTP/HTTPS](practice/S-1-%20HTTP)
  
