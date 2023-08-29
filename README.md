@@ -23,7 +23,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 ## Темы курсовых проектов
    [АДЭУ-211](https://docs.google.com/spreadsheets/d/1vH9CPcBrWd2rGgXVlzg4eaXm8DNor1-3s4Um11_e2hA/edit?usp=sharing)
 
-   [АДЭУ-221](https://docs.google.com/spreadsheets/d/1rwdG4OYKxMX2NpclxNVn-L5Y_67TCcN1Y9awgpJACAA/edit?usp=sharing)
+   [АДЭУ-221]()
    
    Распределение студентов КР:
    - [АДЭУ-211](/kp/)
@@ -74,7 +74,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 ## Текущая успеваемость
  [АДЭУ-211](https://docs.google.com/spreadsheets/d/1NOTUaM9YFTO9QEV7WKDY1KJoWyKj5iSkfVdgChCiw_o/edit?usp=sharing)
 
- [АДЭУ-201]()
+ [АДЭУ-221](https://docs.google.com/spreadsheets/d/1rwdG4OYKxMX2NpclxNVn-L5Y_67TCcN1Y9awgpJACAA/edit?usp=sharing)
 
 ## Вопросы к экзамену
 
