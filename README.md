@@ -26,8 +26,8 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
    [АДЭУ-221](https://docs.google.com/spreadsheets/d/1rwdG4OYKxMX2NpclxNVn-L5Y_67TCcN1Y9awgpJACAA/edit?usp=sharing)
    
    Распределение студентов КР:
-   - [`АДЭУ-211`](/kp/)
-   - [АДЭУ-201]().
+   - [АДЭУ-211](/kp/)
+   - [АДЭУ-221]().
    
    | ФИО  | Дата представления КП |
 | --------------| :---: |
