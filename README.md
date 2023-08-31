@@ -105,8 +105,13 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 - `10-ЛЕКЦИЯ` [Репликация данных](lectures/)
 
+## Практические работы задания
+- [practice](https://github.com/BosenkoTM/Distributed_systems/tree/main/seminars).
 
-## Семинары
+## Индивидуальные задания 
+- [d-zadanie](https://github.com/BosenkoTM/Distributed_systems/tree/main/d-zadanie ).
+
+## Семинары(доп)
 
 - `Семинар 1`. [Протокол HTTP/HTTPS](practice/S-1-%20HTTP)
  
