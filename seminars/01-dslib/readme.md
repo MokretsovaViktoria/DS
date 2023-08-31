@@ -57,6 +57,9 @@
 ```
 sudo apt install build-essential
 
+sudo apt install libwayland-dev
+
+sudo apt install libwayland-cursor0
 ```
 Теперь разберемся как запускать и тестировать нашу систему в dslib. Тесты и сам фреймворк написаны на языке Rust, а Python используется только для описания логики узлов. Поэтому необходимо [установить Rust](https://www.rust-lang.org/tools/install) и, разумеется, Python.
 
