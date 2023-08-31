@@ -167,6 +167,6 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 5.	Sigismondo Boschi RabbitMQ Cookbook Packt Publishing 2013
 6.	Burns, B. (2018). Designing Distributed Systems : Patterns and Paradigms for Scalable, Reliable Services (Vol. First edition). Sebastopol, CA: O’Reilly Media. Retrieved from http://search.ebscohost.com/login.aspx?direct=true&site=eds-live&db=edsebk&AN=1713745
 7.	Kleppmann, M. (2017). Designing Data-Intensive Applications : The Big Ideas Behind Reliable, Scalable, and Maintainable Systems. Sebastopol, CA: O’Reilly Media. Retrieved from http://search.ebscohost.com/login.aspx?direct=true&site=eds-live&db=edsebk&AN=1487643
-Petrov, A., & O’Reilly for Higher Education (Firm). (2019).
+8. Petrov, A., & O’Reilly for Higher Education (Firm). (2019).
 8. Database Internals : A Deep Dive Into How Distributed Data Systems Work (Vol. First edition). Sebastopol, CA: O’Reilly Media. Retrieved from http://search.ebscohost.com/login.aspx?direct=true&site=eds-live&db=edsebk&AN=2250514
 
