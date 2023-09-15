@@ -68,11 +68,11 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 - `01-ЛЕКЦИЯ` [Введение](lectures/1-intro.pdf)
 
-- `02-ЛЕКЦИЯ` [Взаимодействие в распределенных системах](lectures/)
+- `02-ЛЕКЦИЯ` [Взаимодействие в распределенных системах](/lectures/02-ЛЕКЦИЯ_Взаимодействие%20между.pdf)
 
-- `03-ЛЕКЦИЯ` [HTTP и веб-сервисы](lectures/)
+- `03-ЛЕКЦИЯ` [HTTP и веб-сервисы](/lectures/03-ЛЕКЦИЯ_HTTP%20и%20веб-сервисы.pdf)
 
-- `04-ЛЕКЦИЯ` [Групповые взаимодействия](lectures/)
+- `04-ЛЕКЦИЯ` [Групповые взаимодействия](lectures//lectures/04-ЛЕКЦИЯ_Групповые%20взаимодействия.pdf)
 
 - `05-ЛЕКЦИЯ` [Непрямое взаимодействие](lectures/)
    - `05-01-ЛЕКЦИЯ` [docker-indirect](/lectures/05-01-docker-indirect-comm.pdf)
@@ -98,7 +98,11 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 - `Семинар 1`. [Протокол HTTP/HTTPS](practice/S-1-%20HTTP)
  
-- `Семинар 2`. [Multicast](d-zadanie/04-multicast) (Выполнить на базе кластера `МГПУ`).
+- `Семинар 2`.
+
+- [Multicast](d-zadanie/04-multicast) (Выполнить на базе кластера `МГПУ`).
+
+- [Расчет конфигурации сети Ethernet](https://disk.yandex.ru/i/WSwJSNc6PP3aRg).
 
 - `Семинар 3`. [Message queue, RabbitMQ.](/d-zadanie/03-mq) (Выполнить на базе кластера `МГПУ`).
 
