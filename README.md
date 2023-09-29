@@ -102,11 +102,12 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 - [Multicast](d-zadanie/04-multicast) (Выполнить на базе кластера `МГПУ`).
 
-- [Расчет конфигурации сети Ethernet](https://disk.yandex.ru/i/WSwJSNc6PP3aRg): [Готово](https://github.com/MokretsovaViktoria/DS/blob/main/HomeWork/DS_Расчет%20конфигурации%20сети%20Ethernet.docx).
+- [Расчет конфигурации сети Ethernet](https://disk.yandex.ru/i/WSwJSNc6PP3aRg): [!ГОТОВО!](https://github.com/MokretsovaViktoria/DS/blob/main/HomeWork/DS_Расчет%20конфигурации%20сети%20Ethernet.docx).
 
 - `Семинар 3`. [Message queue, RabbitMQ.](/d-zadanie/03-mq) (Выполнить на базе кластера `МГПУ`).
 
-- `Семинар 4-5`. [Kafka.](https://github.com/BosenkoTM/kafka),  [Kafka2.](https://github.com/Zabi82/KafkaLab) [Kafka3.](https://github.com/cblanton45/kafka-labs).
+- `Семинар 4`. [Детектор отказов: !ГОТОВО!](https://github.com/MokretsovaViktoria/DS/blob/main/HomeWork/DS_S4.docx).
+- `Семинар 5`. [Kafka.](https://github.com/BosenkoTM/kafka),  [Kafka2.](https://github.com/Zabi82/KafkaLab) [Kafka3.](https://github.com/cblanton45/kafka-labs).
 
 - `Семинар 6`. 
    
